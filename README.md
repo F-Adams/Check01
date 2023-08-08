@@ -10,6 +10,7 @@
 ## Extras not required
 - Added transition effects to contact link images
 - Added some special effects to the "hero-content" div to make it stand out from the background (Text was hard to read over the image)
+- Modified the header CSS to have the header fixed to the top of the page
 
 ### Live Demo  
 https://colony7.com/codeky/check01/index.html
