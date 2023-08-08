@@ -1,6 +1,6 @@
 # Check01
 
-##Code Kentucky Knowledge Check #1 Requirements
+## Code Kentucky Knowledge Check #1 Requirements
  1. Added the Viewport metatag
  2. Centered the div "hero-content" in the "hero" section
  3. Changed the "Hero" button :hover colors
